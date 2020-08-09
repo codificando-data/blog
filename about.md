@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre o Autor
+title: About
 permalink: /about/
 ---
 
