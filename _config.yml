@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Marcel
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -21,8 +21,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/codificando-data
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
