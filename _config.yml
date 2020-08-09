@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marcel
+name: Codificando Data
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Programação para BA e BI!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/codificando-data
-  instagram: https://www.instagram.com/codificando.data/
-  linkedin:
+  github: codificando-data
+  instagram: codificando.data
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
